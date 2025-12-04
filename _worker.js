@@ -1,5 +1,5 @@
 import { connect } from 'cloudflare:sockets';
-const TOKEN = 'xxx';
+const TOKEN = '9fb00799ca1d';
 const encoder = new TextEncoder();
 
 export default {
